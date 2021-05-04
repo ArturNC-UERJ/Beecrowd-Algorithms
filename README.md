@@ -1,2 +1,2 @@
 # URI-Resolutions
-Some problems solved by me at URI.
+Repository destinated to show some of my progams solved at URI Online Judge.
